@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#input {
+  width: 400px;
+  height: 120px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+  background: linear-gradient(135deg,  #e6e6fa, #d8bfd8);
+}
+
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #fff;
+    background: #0073e6;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+button:hover {
+    background: #005bb5;
+}
